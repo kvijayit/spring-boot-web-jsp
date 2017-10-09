@@ -1,0 +1,1 @@
+INSERT INTO bet_details VALUES ('Bet-Test', 1234567890, 1, 'Bet-TestSelection', 1.1, 5.5, 'EUR', 1.1*5.5,5.5,1.1);
